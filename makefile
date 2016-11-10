@@ -10,4 +10,4 @@ run: signals.out
 	./signals.out
 
 clean:
-	rm -f *~ *.out *.o
+	rm -f *~ *.out *.o *.txt
